@@ -20,7 +20,7 @@ In this project, I assumed the role of a Business Intelligence Analyst at CFI Ca
 
 ### Project Requirements
 
-Kurt, our client, tasked us with creating a Tableau Trading Dashboard for the Sales & Trading team. The specified visualizations and features include:
+Kurt, my client, tasked me with creating a Tableau Trading Dashboard for the Sales & Trading team. The specified visualizations and features include:
 
 - Candlestick Chart
 - Dynamic Bollinger Bands
@@ -68,7 +68,20 @@ I connected to the test database using the provided documents, ensuring seamless
 ### Additional Features
 
 - **Pop-up Containers for Industry & Ticker Treemap:**
-  - Offers an interac
+  - Offers an interactive overview of industry and ticker data, enhancing the user experience.
 
+## Usage
+
+The Tableau Trading Dashboard is designed to empower the Sales & Trading team with a comprehensive tool for market analysis. Users can leverage the dynamic features to make informed decisions based on real-time and historical data.
+
+## Conclusion
+
+This project successfully delivered a robust Tableau Trading Dashboard that meets the specified requirements and goes beyond by incorporating additional features for enhanced usability. The visualizations and tools provided aim to support the Sales & Trading team in their day-to-day operations.
+
+Feel free to explore the [dashboard](https://public.tableau.com/views/TradingDashboardCompleted_17052013529250/DowJonesTechnicalAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and provide feedback. Your insights are invaluable in refining and improving this tool.
+
+## Acknowledgments
+
+I express my gratitude to Kurt and the entire Sales & Trading team for their collaboration and valuable input throughout the development of this Tableau Trading Dashboard.
 
 
