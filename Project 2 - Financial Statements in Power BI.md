@@ -1,5 +1,3 @@
-Project 2 - Financial Statements in Power BI.md -text
-
 # Project Report: Financial Statements in Power BI
 
 ## Overview
