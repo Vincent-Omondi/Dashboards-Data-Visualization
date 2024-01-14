@@ -1,4 +1,4 @@
-# Project Report: Financial Statements in Power BI
+# Financial Statements in Power BI
 
 ## Overview
 This project focuses on automating and visualizing financial reporting for GL Retail Corporation, a successful retail company with a head office and five retail stores. The primary objectives are to improve efficiency, reporting integrity, and gain new insights to provide a competitive advantage through a data-driven approach.
