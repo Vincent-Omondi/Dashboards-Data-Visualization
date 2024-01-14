@@ -82,6 +82,6 @@ Feel free to explore the [dashboard](https://public.tableau.com/views/TradingDas
 
 ## Acknowledgments
 
-I express my gratitude to Kurt and the entire Sales & Trading team for their collaboration and valuable input throughout the development of this Tableau Trading Dashboard.
+I express my gratitude to CFI and the entire Sales & Trading team for their collaboration and valuable input throughout the development of this Tableau Trading Dashboard.
 
 
